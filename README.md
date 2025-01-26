@@ -1,7 +1,7 @@
 ## Hi 👋 Im Saad
 
 
-I am a data science graduate student at Umich, passionate about exploring the realms of data and machine learning.
+I am a data science graduate student at UMich Dearborn, passionate about exploring the realms of data and machine learning.
 <!--
 **saaaady/saaaady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
